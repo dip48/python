@@ -1,0 +1,10 @@
+socket
+subprocess
+qrcode
+time
+calender
+colorsys
+random
+requests
+math
+turtle
